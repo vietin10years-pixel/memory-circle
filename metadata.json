@@ -1,0 +1,7 @@
+{
+  "name": "Memory Circle",
+  "description": "A private digital sanctuary for mindful memory capturing, mood tracking, and connecting with your special inner circle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
